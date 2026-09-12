@@ -43,6 +43,10 @@ pyinstaller --onefile --windowed --name "Samsung SBU Extractor" sbu_extractor_gu
 
 The `.exe` will be in the `dist/` folder.
 
+## Problems or questions?
+
+[Open an issue](https://github.com/msaiproducts/samsung-sbu-extractor/issues) — I respond quickly.
+
 ## License
 
 MIT
